@@ -1,2 +1,2 @@
 # Trafalgar.Foundation
-The Basic factor of Trafalgar.
+The Basic factor of Trafalgar..
